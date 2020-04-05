@@ -10,7 +10,7 @@ $ cd flask-dev
 ## docker の立ち上げ方
 
 ```
-$ docker-copomse up 
+$ docker-compose up 
 ```
 
 ## docker の落とし方
